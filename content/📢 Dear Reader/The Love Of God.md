@@ -12,3 +12,8 @@ cssclasses:
 ![[youtube_logo.png|150]]
 # The Love Of God
 ---
+This is python code
+```python
+print('Hello World')
+```
+GG!
