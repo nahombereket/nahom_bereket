@@ -5,4 +5,4 @@ tags:
 ---
 # The Rose Project
 ---
-The Rose Project was created by [[Nahom Bereket]]
+The Rose Project was created by [[index]]
