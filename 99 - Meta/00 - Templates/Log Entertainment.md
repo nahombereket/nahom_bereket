@@ -1,0 +1,1 @@
+log:: 📺 [[Video]] _Title (#number)_[🔗 Click Here]().<br>==Take Away== #log/entertainment

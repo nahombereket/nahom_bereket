@@ -1,0 +1,1 @@
+log:: 🎧 [[The Jordan B. Peterson Podcast]] _Title (#number)_[🔗 Click Here]().<br>==Take Away== #log/podcast

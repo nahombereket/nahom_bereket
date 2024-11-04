@@ -1,0 +1,1 @@
+log:: 📚 [[]] recommended to read #log/to_read 
