@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "DM Serif Text",
+        body: "DM Sans",
         code: "JetBrains Mono",
       },
       colors: {
