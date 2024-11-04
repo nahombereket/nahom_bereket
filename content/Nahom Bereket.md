@@ -1,9 +1,11 @@
 ---
 title: Nahom Bereket
 draft: false
-tags:
+tags: 
+aliases:
+  - Nahom
 ---
 
 # Hello World 👋
 ---
-Welcome to my website!I am [[Nahom Bereket]].
+Welcome to my website! I am [[Nahom Bereket|Nahom]].

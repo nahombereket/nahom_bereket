@@ -1,5 +1,5 @@
 ---
-title: TRP
+title: The Rose Project
 draft: false
 tags:
 ---
