@@ -1,6 +1,0 @@
-##### Helps
-
-##### Contains
-
-
-##### Examples

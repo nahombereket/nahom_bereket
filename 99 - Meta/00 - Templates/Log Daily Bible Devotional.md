@@ -1,1 +1,0 @@
-log:: 📖   <br> [[]] #log/bible/daily

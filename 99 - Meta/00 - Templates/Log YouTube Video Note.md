@@ -1,1 +1,0 @@
-log:: 🔴 - [[Name Of YouTube Video]]
