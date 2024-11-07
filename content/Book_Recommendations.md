@@ -4,8 +4,8 @@ draft: false
 tags: 
 aliases:
 ---
-# Book Recommendations
----
+
+![[pages_flip_on_a_book.gif]]
 ## Religious
 ---
 
