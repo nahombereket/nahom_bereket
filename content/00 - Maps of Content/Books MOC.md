@@ -1,9 +1,17 @@
 ---
-title: Book Recommendations
+title: Books MOC
 draft: false
-tags: 
-aliases:
+tags:
+  - type/MOC
 ---
+
+
+
+| Book Name   | Cover                                                                                                                 | Author      | Description / Note | Genre |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------ | ----- |
+| Tom Holland | <img src="https://m.media-amazon.com/images/I/61To09iq2OL._SL1500_.jpg" alt="Cover of the book Dominion" width="150"> | Tom Holland |                    |       |
+|             |                                                                                                                       |             |                    |       |
+
 
 ![[pages_flip_on_a_book.gif]]
 ## Religious
