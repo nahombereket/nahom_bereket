@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Divinity
 draft: false
 tags:
   - type/Concept
