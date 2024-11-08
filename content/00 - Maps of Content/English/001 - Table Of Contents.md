@@ -4,7 +4,13 @@ draft: false
 tags:
   - type/MOC
 ---
-![[pages_flip_on_a_book.gif]]
+Tigrinya Version : [[001 - ትሕዝቶ]]
+
+1. [[002 - Books MOC|Books MOC]]
+2. [[003 - Philosophy MOC|Philosophy MOC]]
+3. [[004 - Theology MOC|Theology MOC]]
+
+
 ## Religious
 ---
 

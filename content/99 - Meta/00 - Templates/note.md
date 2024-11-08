@@ -3,5 +3,5 @@ title: Example Title
 draft: false
 tags: []
 ---
-==Tigrinya Version==: [[]]
-==ትርጕም ብእንግሊዝኛ==: [[]]
+Tigrinya Version : [[]]
+ትርጕም ብእንግሊዝኛ : [[]]

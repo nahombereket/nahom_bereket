@@ -4,7 +4,7 @@ draft: false
 tags:
   - type/MOC/Books
 ---
-
+Tigrinya Version : [[002 - ትሕዝቶ መጻሕፍቲ]]
 ![[pages_flip_on_a_book.gif]]
 ## Books
 ---
